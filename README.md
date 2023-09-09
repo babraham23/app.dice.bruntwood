@@ -1,11 +1,11 @@
 # Dice Challenge
 
 ## Get the project running
-git clone https://github.com/babraham23/app.dice.bruntwood.git
-npm install / yarn
-npx expo start
-i - in terminal for iOS
-a - in terminal for android
+git clone https://github.com/babraham23/app.dice.bruntwood.git <br>
+npm install / yarn <br>
+npx expo start <br>
+i - in terminal for iOS <br>
+a - in terminal for android <br>
 
 ## dependencies
 react 
