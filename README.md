@@ -46,7 +46,7 @@ Settings Modal:
 To access the settings modal, click on the "Settings" button.
 In the settings modal, you can add a second dice by toggling the relevant option.
 You can also adjust the number of sides on each die by selecting a value between one and six.
-Click the "Save" button to apply your settings.
+Click the "Continue" button to apply your settings.
 Double Six Alert:
 
 If you roll a double six, you will receive an alert notification to inform you of this special outcome.

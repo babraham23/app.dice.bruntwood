@@ -52,11 +52,6 @@ const SettingsModal = ({ modalVisible, setModalVisible, setSecondDice, secondDic
 };
 
 const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-        justifyContent: 'center',
-        alignItems: 'center',
-    },
     centeredView: {
         flex: 1,
         justifyContent: 'flex-end',
@@ -115,7 +110,6 @@ const styles = StyleSheet.create({
         bottom: 50,
         width: '100%',
         alignSelf: 'center',
-        // marginLeft: 20,
     }
 });
 
